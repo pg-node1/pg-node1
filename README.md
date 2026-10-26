@@ -3,8 +3,8 @@ Marcus Li
 Graduate Student
 
 Institution: None
-Research Interests:
 
+Research Interests:
 Computer Vision
 Human Action Understanding
 Multimodal Learning
